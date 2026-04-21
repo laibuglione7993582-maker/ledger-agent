@@ -1,6 +1,6 @@
 {
   "name": "x402-oversight",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Oversight and governance wrapper for x402 payments — spend caps, transaction logs, and anomaly detection for AI agent micro-transactions.",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -16,7 +16,8 @@
   "files": [
     "dist",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "banner.jpg"
   ],
   "scripts": {
     "build": "tsup",
